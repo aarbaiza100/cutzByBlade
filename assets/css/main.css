@@ -2192,7 +2192,8 @@ input, select, textarea {
 		margin: 0; 
 		/* background: black;  */
 		/* background-image: url(/Users/jarbaiza100/Desktop/100Devs/html5up-tessellate/imgs/allyson-carter-8REEzs_u--Y-unsplash.jpg); */
-		background-image: url(/Users/jarbaiza100/Desktop/100Devs/cutzByBlade/images/allyson-carter-TNhm6uVurpU-unsplash.jpg);
+		/* background-image: url(/Users/jarbaiza100/Desktop/100Devs/cutzByBlade/images/allyson-carter-TNhm6uVurpU-unsplash.jpg); */
+		background-image: url(images/allyson-carter-TNhm6uVurpU-unsplash.jpg);
 		background-size: contain;
 		background-size: cover;
 		background-position: top left, center center;
